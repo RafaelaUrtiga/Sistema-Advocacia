@@ -79,6 +79,16 @@ Acesse o sistema no navegador pelo endereço: `http://127.0.0.1:8000/`
 ## Licença
 Este projeto foi desenvolvido para fins acadêmicos e não possui fins comerciais.
 
+## Equipe e contribuições
+
+Projeto desenvolvido em grupo na disciplina do curso de Sistemas de Informação do Centro Universitário CESMAC (2024).
+
+### Contribuição de Rafaela Urtiga Malta
+
+- Fluxo de login: autenticação por e-mail e senha, com mensagem de erro para credenciais inválidas (`task/views/login_views.py`).
+- Redirecionamento do usuário autenticado para a tela de cadastro de clientes.
+- Mensagem de boas-vindas com o e-mail do usuário no cabeçalho (`templates/tasks/partials/header.html`).
+
 ---
 
 **Autor:** Luana Karoline
